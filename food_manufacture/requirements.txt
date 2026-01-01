@@ -1,0 +1,4 @@
+pandas>=2.0.0
+pyomo>=6.7.0
+highspy>=1.5.0  # The Python interface for the HiGHS solver
+matplotlib>=3.7.0
